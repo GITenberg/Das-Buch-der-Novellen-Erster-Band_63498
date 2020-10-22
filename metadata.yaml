@@ -1,0 +1,34 @@
+_repo: Das-Buch-der-Novellen-Erster-Band_63498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosegger, Peter
+    aliases:
+    - Fels, Gabriel
+    - Rosegger, Petri Kettenfeier
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '7090'
+    url: http://www.gutenberg.org/2009/agents/7090
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Peter_Rosegger
+    - https://en.wikipedia.org/wiki/Peter_Rosegger
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63498'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction'
+- !lcsh 'Short stories, Austrian'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Die Harfenspieler -- Felix der Begehrte -- Das Haus auf der Höhe
+  -- Der Geldfeind -- Das Holzknechthaus -- Das Reich Gottes -- Das Felsenbildniß
+  -- Das Viktel -- Das Leben siegt.
+title: Das Buch der Novellen. Erster Band
+url: http://www.gutenberg.org/ebooks/63498
